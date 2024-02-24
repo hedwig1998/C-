@@ -1,0 +1,7 @@
+D:\IT\C#\24-02-2024 slot 2\24-02-2024 slot 2\obj\Debug\24-02-2024 slot 2.csproj.AssemblyReference.cache
+D:\IT\C#\24-02-2024 slot 2\24-02-2024 slot 2\obj\Debug\24-02-2024 slot 2.csproj.CoreCompileInputs.cache
+D:\IT\C#\24-02-2024 slot 2\24-02-2024 slot 2\bin\Debug\24-02-2024 slot 2.exe.config
+D:\IT\C#\24-02-2024 slot 2\24-02-2024 slot 2\bin\Debug\24-02-2024 slot 2.exe
+D:\IT\C#\24-02-2024 slot 2\24-02-2024 slot 2\bin\Debug\24-02-2024 slot 2.pdb
+D:\IT\C#\24-02-2024 slot 2\24-02-2024 slot 2\obj\Debug\24-02-2024 slot 2.exe
+D:\IT\C#\24-02-2024 slot 2\24-02-2024 slot 2\obj\Debug\24-02-2024 slot 2.pdb
