@@ -1,0 +1,7 @@
+D:\IT\C#\03-02-24\03-02-24\bin\Debug\03-02-24.exe.config
+D:\IT\C#\03-02-24\03-02-24\bin\Debug\03-02-24.exe
+D:\IT\C#\03-02-24\03-02-24\bin\Debug\03-02-24.pdb
+D:\IT\C#\03-02-24\03-02-24\obj\Debug\03-02-24.csproj.AssemblyReference.cache
+D:\IT\C#\03-02-24\03-02-24\obj\Debug\03-02-24.csproj.CoreCompileInputs.cache
+D:\IT\C#\03-02-24\03-02-24\obj\Debug\03-02-24.exe
+D:\IT\C#\03-02-24\03-02-24\obj\Debug\03-02-24.pdb
