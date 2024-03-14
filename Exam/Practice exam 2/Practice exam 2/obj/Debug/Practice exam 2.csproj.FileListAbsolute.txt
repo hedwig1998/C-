@@ -1,0 +1,7 @@
+D:\IT\C#\Practice exam 2\Practice exam 2\bin\Debug\Practice exam 2.exe.config
+D:\IT\C#\Practice exam 2\Practice exam 2\bin\Debug\Practice exam 2.exe
+D:\IT\C#\Practice exam 2\Practice exam 2\bin\Debug\Practice exam 2.pdb
+D:\IT\C#\Practice exam 2\Practice exam 2\obj\Debug\Practice exam 2.csproj.AssemblyReference.cache
+D:\IT\C#\Practice exam 2\Practice exam 2\obj\Debug\Practice exam 2.csproj.CoreCompileInputs.cache
+D:\IT\C#\Practice exam 2\Practice exam 2\obj\Debug\Practice exam 2.exe
+D:\IT\C#\Practice exam 2\Practice exam 2\obj\Debug\Practice exam 2.pdb
